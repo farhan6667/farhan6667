@@ -1,10 +1,21 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sfa-logo.webp" height="110" alt="SFA logo">
+
 # Syed Farhan Ahmed
+
+Cybersecurity · Detection engineering · Digital forensics
+
+[Portfolio](https://farhan6667.github.io/portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/sfa6667) ·
+[NexaForge](https://nexaforge.eu.cc/) ·
+[Email](mailto:nexaforge.services@gmail.com)
+
+</div>
 
 I work on cybersecurity, detection engineering and digital forensics. My current
 projects focus on making Wazuh rule changes easier to test and alert tuning easier
 to review.
-
-[Portfolio](https://farhan6667.github.io/portfolio/)
 
 ## Tools I'm building
 
@@ -44,3 +55,34 @@ Keep credentials and organization logs out of public issues.
 My wider work includes SIEM operations, incident response and DFIR. The
 [portfolio](https://farhan6667.github.io/portfolio/) has more background and project
 context.
+
+## Beyond security
+
+### [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp)
+
+A coding agent that needs a hero image shouldn't need a second bill. no-api-media-mcp
+is an MCP server that lets Claude Code, Cursor and Codex make images and videos
+through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for. You
+sign in once yourself and it never sees your password.
+
+It reads your project first so the pictures match the site, saves them inside the
+project, and can cut out backgrounds, edit video and export every social size
+locally.
+
+It's MIT licensed. The browser-driven providers depend on the sites' pages, so a
+redesign can break them, and the README says plainly where those services' terms
+limit automated use.
+
+## NexaForge
+
+<a href="https://nexaforge.eu.cc/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/nexaforge-lockup-dark.webp">
+    <img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/nexaforge-lockup-light.webp" height="56" alt="NexaForge">
+  </picture>
+</a>
+
+I also run NexaForge, a small studio that builds websites, tests them against real
+attacks and looks after the servers behind them.
+[nexaforge.eu.cc](https://nexaforge.eu.cc/) ·
+[nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com)
