@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/profile-banner.svg" width="100%" alt="Syed Farhan Ahmed, Head of Cyber Security and Lead Penetration Tester">
+<img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/profile-banner.webp" width="100%" alt="Syed Farhan Ahmed, Head of Cyber Security and Cyber Security Engineer. Build. Break. Defend. Govern.">
 
 <br>
 
@@ -20,16 +20,18 @@
 
 ## About
 
-I'm a cyber security leader and lead penetration tester based in Karachi, Pakistan, with 15 years in IT and the last nine in security. I lead security across offensive testing, defence and governance, and I stay hands on: I test applications myself, investigate incidents, and build the detections that catch the next attempt.
+**Build. Break. Defend. Govern.** That is how I think about cyber security.
 
-- **Offensive security.** Web, mobile and network penetration testing, vulnerability assessment and red team work.
-- **Digital forensics and incident response.** Mobile and Windows forensics, evidence handling, ransomware response and threat hunting.
-- **Detection engineering and SOC.** SIEM and EDR operations with Wazuh, mapped to MITRE ATT&CK.
-- **Security leadership and compliance.** Building and leading a security team, ISO/IEC 27001 and risk management.
+I'm a cyber security engineer and head of cyber security based in Karachi, Pakistan, with 15 years in IT and the last nine in security. I lead a team that covers offensive testing, detection and response, forensics, DevSecOps and governance, risk and compliance (GRC), and I stay hands on in the engineering, the investigations and the detections that catch the next attempt.
+
+- **Build.** Security engineering and DevSecOps: secure design, hardening, and detection engineering with Wazuh mapped to MITRE ATT&CK.
+- **Break.** Leading web, mobile and network penetration testing, vulnerability assessment and red team work.
+- **Defend.** SOC operations, incident response, mobile and Windows forensics, evidence handling and threat hunting.
+- **Govern.** ISO/IEC 27001, security policy, risk assessment and audit readiness, and building and leading the team that does all of it.
 
 **Certifications:** PNPT, CEH, eJPT, CHFI, CISM, CISA, CSA (Certified SOC Analyst) and ISO/IEC 27001 Information Security Associate. The [portfolio](https://farhan6667.github.io/portfolio/) lists all of them with their issuers.
 
-**Hiring?** I'm open to conversations about cyber security leadership and senior penetration testing roles. Write to [nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com?subject=Opportunity) or message me on [LinkedIn](https://www.linkedin.com/in/sfa6667).
+**Hiring?** I'm open to conversations about cyber security leadership and senior engineering roles. Write to [nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com?subject=Opportunity) or message me on [LinkedIn](https://www.linkedin.com/in/sfa6667).
 
 **Recognition:** acknowledged for responsible vulnerability reports by HackerOne (ranked #7 in Pakistan), OPPO, AT&T, Mastercard, Rockstar Games and other companies.
 
