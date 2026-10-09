@@ -4,7 +4,9 @@
 
 # Syed Farhan Ahmed
 
-Cybersecurity · Detection engineering · Digital forensics
+**Head of Cyber Security · Lead Penetration Tester**
+
+Penetration testing · Digital forensics and incident response · Detection engineering · Security leadership
 
 [Portfolio](https://farhan6667.github.io/portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/sfa6667) ·
@@ -13,65 +15,42 @@ Cybersecurity · Detection engineering · Digital forensics
 
 </div>
 
-I work on cybersecurity, detection engineering and digital forensics. My current
-projects focus on making Wazuh rule changes easier to test and alert tuning easier
-to review.
+## About
 
-## Tools I'm building
+I'm a cyber security leader and lead penetration tester based in Karachi, Pakistan, with 15 years in IT and the last nine in security. I lead security across offensive testing, defence and governance, and I stay hands on: I test applications myself, investigate incidents, and build the detections that catch the next attempt.
+
+- **Offensive security.** Web, mobile and network penetration testing, vulnerability assessment and red team work.
+- **Digital forensics and incident response.** Mobile and Windows forensics, evidence handling, ransomware response and threat hunting.
+- **Detection engineering and SOC.** SIEM and EDR operations with Wazuh, mapped to MITRE ATT&CK.
+- **Security leadership and compliance.** Building and leading a security team, ISO/IEC 27001 and risk management.
+
+**Certifications:** PNPT, CEH, eJPT, CHFI, CISM, CISA, CSA (Certified SOC Analyst) and ISO/IEC 27001 Information Security Associate. The [portfolio](https://farhan6667.github.io/portfolio/) lists all of them with their issuers.
+
+**Recognition:** acknowledged for responsible vulnerability reports by HackerOne (ranked #7 in Pakistan), OPPO, AT&T, Mastercard, Rockstar Games and other companies.
+
+## How I use AI-assisted coding
+
+When I run into a real problem that no good tool solves, I build one. I use AI-assisted development (vibe coding) to get from the need to a working tool quickly, then I review and test the result the way I would any code that touches security: threat model first, least privilege, no secrets in the code, and tests that fail when the behaviour breaks. The tools below come from my own work, and I release them as open source so other people can use them and improve them.
+
+## Open source tools
 
 ### [Wazuh RuleGuard](https://github.com/farhan6667/wazuh-ruleguard)
 
-A rule exception can silence the sample you tested and still affect detections
-you need. RuleGuard checks a JSON suite of sample logs against the Wazuh 4.x
-logtest API. Save results before and after a rule change or manager upgrade to
-review differences in rule selection, decoding and alert behavior.
-
-It includes checks for expected and forbidden rules, sequence sessions, and JSON,
-JUnit XML and offline HTML reports. Start with the
-[demo walkthrough](https://github.com/farhan6667/wazuh-ruleguard/blob/main/docs/demo.md).
+A rule exception can silence the sample you tested and still affect detections you need. RuleGuard checks a JSON suite of sample logs against the Wazuh 4.x logtest API, compares runs before and after a rule change or upgrade, lints rule files for rules that load but never match, and shows which ATT&CK techniques your tests cover. Reports come as JSON, JUnit XML, Markdown and a readable offline HTML page.
 
 ### [Wazuh NoiseLens](https://github.com/farhan6667/wazuh-noiselens)
 
-Before suppressing a busy rule, check which alerts the exception would hide.
-NoiseLens analyzes exported Wazuh alerts locally, counts matches for proposed
-exceptions and flags matches against protected alerts. It measures the impact
-on your dataset so you can review the underlying events before changing rules.
+Before you suppress a busy rule, find out which alerts the exception would hide. NoiseLens reads exported Wazuh alerts offline, counts matches for a proposed exception, and flags any match against alerts you have protected. It also shows where the volume comes from (rule groups, directories, how many incidents the alerts really are) so you can build a narrow exception from your own data.
 
-The [demo walkthrough](https://github.com/farhan6667/wazuh-noiselens/blob/main/docs/demo.md)
-compares a narrow exception with a broad one using synthetic data.
-
-Both tools are early prototypes written in Python with no runtime dependencies.
-Live manager compatibility and representative operator data validation are still
-in progress. The examples are synthetic, and their results aren't production
-benchmarks.
-
-## Useful feedback
-
-If you try either tool, a reproducible issue with your Wazuh version, command and
-a sanitized sample is useful. I'm particularly interested in decoder changes,
-correlation behavior and export formats that make the workflow harder to use.
-Keep credentials and organization logs out of public issues.
-
-My wider work includes SIEM operations, incident response and DFIR. The
-[portfolio](https://farhan6667.github.io/portfolio/) has more background and project
-context.
-
-## Beyond security
+Both are early prototypes in Python with no runtime dependencies, with releases and Docker images on GitHub. The examples use synthetic data, and live validation on real Wazuh managers is the biggest thing still missing, so a [compatibility report](https://github.com/farhan6667/wazuh-ruleguard/issues/new?template=compatibility_report.md) is the most useful help you can give. Both are independent projects and are not affiliated with Wazuh Inc.
 
 ### [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp)
 
-A coding agent that needs a hero image shouldn't need a second bill. no-api-media-mcp
-is an MCP server that lets Claude Code, Cursor and Codex make images and videos
-through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for. You
-sign in once yourself and it never sees your password.
+An MCP server that lets Claude Code, Cursor and Codex make images and videos through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for, with no API keys. You sign in once yourself and it never sees your password. It reads your project first so the pictures match the site, saves them inside the project, and can cut out backgrounds, edit video and export every social size locally. It is Apache-2.0 licensed, and the README says plainly where the providers' terms limit automated use.
 
-It reads your project first so the pictures match the site, saves them inside the
-project, and can cut out backgrounds, edit video and export every social size
-locally.
+## Contributing and feedback
 
-It's MIT licensed. The browser-driven providers depend on the sites' pages, so a
-redesign can break them, and the README says plainly where those services' terms
-limit automated use.
+Contributions are welcome, and a real-world test result is worth more than a code change. Start with a [good first issue](https://github.com/farhan6667/wazuh-ruleguard/labels/good%20first%20issue), or open a discussion. Please never post credentials, hostnames or organization logs in public issues.
 
 ## NexaForge
 
@@ -82,7 +61,6 @@ limit automated use.
   </picture>
 </a>
 
-I also run NexaForge, a small studio that does cyber security and vibe coding, with
-web development and IT infrastructure alongside.
+I also run NexaForge, a small studio for cyber security and vibe coding, with web development and IT infrastructure alongside.
 [nexaforge.eu.cc](https://nexaforge.eu.cc/) ·
 [nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com)
