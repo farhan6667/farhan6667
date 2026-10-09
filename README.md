@@ -82,7 +82,7 @@ limit automated use.
   </picture>
 </a>
 
-I also run NexaForge, a small studio that builds websites, tests them against real
-attacks and looks after the servers behind them.
+I also run NexaForge, a small studio that does cyber security and vibe coding, with
+web development and IT infrastructure alongside.
 [nexaforge.eu.cc](https://nexaforge.eu.cc/) ·
 [nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com)
