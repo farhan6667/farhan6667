@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sfa-logo.webp" height="110" alt="SFA logo">
+<img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/profile-banner.svg" width="100%" alt="Syed Farhan Ahmed, Head of Cyber Security and Lead Penetration Tester">
 
-# Syed Farhan Ahmed
+<br>
 
-**Head of Cyber Security · Lead Penetration Tester**
+<a href="mailto:nexaforge.services@gmail.com?subject=Opportunity"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/open-to-roles.svg" height="40" alt="Open to cyber security leadership roles"></a>
+&nbsp;
+<a href="https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.svg" height="40" alt="Sponsor my open source work"></a>
 
-Penetration testing · Digital forensics and incident response · Detection engineering · Security leadership
+<br><br>
 
 [Portfolio](https://farhan6667.github.io/portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/sfa6667) ·
 [NexaForge](https://nexaforge.eu.cc/) ·
-[Email](mailto:nexaforge.services@gmail.com)
+[Email](mailto:nexaforge.services@gmail.com) ·
+[Sponsor](SPONSOR.md)
 
 </div>
 
@@ -25,6 +28,8 @@ I'm a cyber security leader and lead penetration tester based in Karachi, Pakist
 - **Security leadership and compliance.** Building and leading a security team, ISO/IEC 27001 and risk management.
 
 **Certifications:** PNPT, CEH, eJPT, CHFI, CISM, CISA, CSA (Certified SOC Analyst) and ISO/IEC 27001 Information Security Associate. The [portfolio](https://farhan6667.github.io/portfolio/) lists all of them with their issuers.
+
+**Hiring?** I'm open to conversations about cyber security leadership and senior penetration testing roles. Write to [nexaforge.services@gmail.com](mailto:nexaforge.services@gmail.com?subject=Opportunity) or message me on [LinkedIn](https://www.linkedin.com/in/sfa6667).
 
 **Recognition:** acknowledged for responsible vulnerability reports by HackerOne (ranked #7 in Pakistan), OPPO, AT&T, Mastercard, Rockstar Games and other companies.
 
@@ -47,6 +52,12 @@ Both are early prototypes in Python with no runtime dependencies, with releases 
 ### [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp)
 
 An MCP server that lets Claude Code, Cursor and Codex make images and videos through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for, with no API keys. You sign in once yourself and it never sees your password. It reads your project first so the pictures match the site, saves them inside the project, and can cut out backgrounds, edit video and export every social size locally. It is Apache-2.0 licensed, and the README says plainly where the providers' terms limit automated use.
+
+## Sponsor the open source work
+
+These tools are free, and keeping them tested on real systems takes machines, hosting and time. If you run a hosting or cloud company, make security tools, or just find the projects useful, there are simple ways to help: hosting and CI credits, tools and licences, or direct funding. GitHub Sponsors is not available in Pakistan, so the [sponsor page](SPONSOR.md) explains how to do it by email instead.
+
+<a href="SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.svg" height="56" alt="Sponsor my open source work"></a>
 
 ## Contributing and feedback
 

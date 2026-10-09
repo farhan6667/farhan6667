@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 40" width="360" height="40" role="img" aria-label="Open to cyber security leadership roles"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050a16"/><stop offset="0.6" stop-color="#0b1630"/><stop offset="1" stop-color="#14123a"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00d1ff"/><stop offset="0.55" stop-color="#3b82ff"/><stop offset="1" stop-color="#a45cff"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff8a00"/><stop offset="1" stop-color="#ff2e6d"/></linearGradient>
+<radialGradient id="g1" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#3b82ff" stop-opacity="0.35"/><stop offset="1" stop-color="#3b82ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.05" cy="1" r="0.6"><stop offset="0" stop-color="#a45cff" stop-opacity="0.22"/><stop offset="1" stop-color="#a45cff" stop-opacity="0"/></radialGradient>
+<pattern id="hex" width="56" height="97" patternUnits="userSpaceOnUse" patternTransform="scale(0.9)"><path d="M28 0 L56 16 V48 L28 64 L0 48 V16 Z M28 64 V97 M0 48 L-28 64 M56 48 L84 64" fill="none" stroke="#00d1ff" stroke-opacity="0.08" stroke-width="1.2"/></pattern>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="358" height="38" rx="19" fill="#0b1226" stroke="#1fbf8f" stroke-opacity="0.8" stroke-width="1.5"/>
+<circle cx="24" cy="20" r="5" fill="#38e0ad"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="40" y="26" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="600" fill="#dff7ee" >Open to cyber security leadership roles</text>
+</svg>
