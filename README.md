@@ -6,7 +6,7 @@
 
 <a href="mailto:nexaforge.services@gmail.com?subject=Opportunity"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/open-to-roles.svg" height="40" alt="Open to cyber security leadership roles"></a>
 &nbsp;
-<a href="https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.svg" height="40" alt="Sponsor my open source work"></a>
+<a href="https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.webp" height="48" alt="Sponsor my open source work"></a>
 
 <br><br>
 
@@ -59,7 +59,7 @@ An MCP server that lets Claude Code, Cursor and Codex make images and videos thr
 
 These tools are free, and keeping them tested on real systems takes machines, hosting and time. If you run a hosting or cloud company, make security tools, or just find the projects useful, there are simple ways to help: hosting and CI credits, tools and licences, or direct funding. GitHub Sponsors is not available in Pakistan, so the [sponsor page](SPONSOR.md) explains how to do it by email instead.
 
-<a href="SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.svg" height="56" alt="Sponsor my open source work"></a>
+<a href="SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.webp" height="64" alt="Sponsor my open source work"></a>
 
 ## Contributing and feedback
 
