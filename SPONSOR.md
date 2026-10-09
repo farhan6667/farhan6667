@@ -1,12 +1,13 @@
 # Sponsor my open source work
 
-I build free open source security tools, and I work as a cyber security professional. Most of what I publish starts as something I needed and could not find. If these tools save you or your team time, there are a few ways to help keep them alive and growing.
+I build free tools for security and system administration, and I work as a cyber security professional. Most of what I publish starts as something I needed and could not find. If these tools save you or your team time, there are a few ways to help keep them alive and growing.
 
 - [Wazuh RuleGuard](https://github.com/farhan6667/wazuh-ruleguard): test Wazuh detection changes before they ship.
 - [Wazuh NoiseLens](https://github.com/farhan6667/wazuh-noiselens): see which alerts an exception would hide before you add it.
 - [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp): make images and videos from your coding agent with the AI plans you already pay for.
+- [SFA Monitor](https://github.com/farhan6667/sfa-monitor): a free desktop performance widget and task manager for Linux.
 
-All three are free and Apache-2.0 licensed.
+The first three are open source under Apache-2.0. SFA Monitor is free to use for home and work but is not open source.
 
 ## What sponsorship helps with
 

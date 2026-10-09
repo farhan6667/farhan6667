@@ -35,11 +35,13 @@ I'm a cyber security engineer and head of cyber security based in Karachi, Pakis
 
 **Recognition:** acknowledged for responsible vulnerability reports by HackerOne (ranked #7 in Pakistan), OPPO, AT&T, Mastercard, Rockstar Games and other companies.
 
-## How I use AI-assisted coding
+## Tools I build
 
-When I run into a real problem that no good tool solves, I build one. I use AI-assisted development (vibe coding) to get from the need to a working tool quickly, then I review and test the result the way I would any code that touches security: threat model first, least privilege, no secrets in the code, and tests that fail when the behaviour breaks. The tools below come from my own work, and I release them as open source so other people can use them and improve them.
+Three of these are open source. SFA Monitor is free to use but not open source.
 
-## Open source tools
+### [SFA Monitor](https://github.com/farhan6667/sfa-monitor)
+
+A free desktop performance widget and task manager for Linux. It shows CPU, memory, disk, network and GPU use right on the desktop, and opens a full monitor with End Task, history, services, containers and logs in one click. One signed installer works on Kali, Debian, Ubuntu, Rocky Linux, AlmaLinux and RHEL, and updates are signature checked. Free for home and work use. [Download the latest release](https://github.com/farhan6667/sfa-monitor/releases/latest).
 
 ### [Wazuh RuleGuard](https://github.com/farhan6667/wazuh-ruleguard)
 
@@ -55,7 +57,7 @@ Both are early prototypes in Python with no runtime dependencies, with releases 
 
 An MCP server that lets Claude Code, Cursor and Codex make images and videos through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for, with no API keys. You sign in once yourself and it never sees your password. It reads your project first so the pictures match the site, saves them inside the project, and can cut out backgrounds, edit video and export every social size locally. It is Apache-2.0 licensed, and the README says plainly where the providers' terms limit automated use.
 
-## Sponsor the open source work
+## Sponsor my work
 
 These tools are free, and keeping them tested on real systems takes machines, hosting and time. If you run a hosting or cloud company, make security tools, or just find the projects useful, there are simple ways to help: hosting and CI credits, tools and licences, or direct funding. GitHub Sponsors is not available in Pakistan, so the [sponsor page](SPONSOR.md) explains how to do it by email instead.
 
