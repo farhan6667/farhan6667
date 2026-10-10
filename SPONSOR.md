@@ -31,6 +31,17 @@ I do not have fixed price tiers. Tell me what you can offer and we will work out
 
 **5. Your time.** A real-world test result, a good bug report, a fix, or a clearer sentence in the docs is often worth more than money. Start with a [good first issue](https://github.com/farhan6667/wazuh-ruleguard/labels/good%20first%20issue).
 
+## How paying works
+
+I live in Pakistan, where the usual sponsor buttons (GitHub Sponsors, Buy Me a Coffee, Ko-fi) cannot pay out, so I do it by hand. It is simple:
+
+1. **Write to me** at nexaforge.services@gmail.com. Say what you would like to offer and which project it is for.
+2. **We agree what suits you.** That can be help in kind (hosting, cloud credits, licences, tools), a one-off or monthly amount, or paid work through NexaForge.
+3. **For money, I send you the payment details.** Depending on the amount that is a secure payment link where you can pay by card or bank transfer without opening any account, or bank details for a wire transfer. Card payments cost more in fees than a bank transfer, so for larger amounts a transfer is kinder to both of us.
+4. **I confirm, say thank you, and add your name** (if you want it) to the sponsors list.
+
+If you are in Pakistan, a local bank transfer is the easiest and cheapest.
+
 ## What sponsors get
 
 - Your name or logo and a link in the README of the projects you support, if you want it.
