@@ -2,12 +2,7 @@
 
 I build free tools for security and system administration, and I work as a cyber security professional. Most of what I publish starts as something I needed and could not find. If these tools save you or your team time, there are a few ways to help keep them alive and growing.
 
-- [Wazuh RuleGuard](https://github.com/farhan6667/wazuh-ruleguard): test Wazuh detection changes before they ship.
-- [Wazuh NoiseLens](https://github.com/farhan6667/wazuh-noiselens): see which alerts an exception would hide before you add it.
-- [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp): make images and videos from your coding agent with the AI plans you already pay for.
-- [SFA Monitor](https://github.com/farhan6667/sfa-monitor): a free desktop performance widget and task manager for Linux.
-
-All four are free to use.
+See the current list on [my repositories page](https://github.com/farhan6667?tab=repositories&type=source), or the ones pinned on [my profile](https://github.com/farhan6667). All are free to use.
 
 ## What sponsorship helps with
 
