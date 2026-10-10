@@ -37,8 +37,6 @@ I'm a cyber security engineer and head of cyber security based in Karachi, Pakis
 
 ## Tools I build
 
-Three of these are open source. SFA Monitor is free to use but not open source.
-
 ### [SFA Monitor](https://github.com/farhan6667/sfa-monitor)
 
 A free desktop performance widget and task manager for Linux. It shows CPU, memory, disk, network and GPU use right on the desktop, and opens a full monitor with End Task, history, services, containers and logs in one click. One signed installer works on Kali, Debian, Ubuntu, Rocky Linux, AlmaLinux and RHEL, and updates are signature checked. Free for home and work use. [Download the latest release](https://github.com/farhan6667/sfa-monitor/releases/latest).

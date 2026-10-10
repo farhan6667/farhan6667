@@ -7,7 +7,7 @@ I build free tools for security and system administration, and I work as a cyber
 - [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp): make images and videos from your coding agent with the AI plans you already pay for.
 - [SFA Monitor](https://github.com/farhan6667/sfa-monitor): a free desktop performance widget and task manager for Linux.
 
-The first three are open source under Apache-2.0. SFA Monitor is free to use for home and work but is not open source.
+All four are free to use.
 
 ## What sponsorship helps with
 
