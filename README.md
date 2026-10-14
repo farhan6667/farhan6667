@@ -14,7 +14,8 @@
 [LinkedIn](https://www.linkedin.com/in/sfa6667) ·
 [NexaForge](https://nexaforge.eu.cc/) ·
 [Email](mailto:nexaforge.services@gmail.com) ·
-[Sponsor](SPONSOR.md)
+[Sponsor](SPONSOR.md) ·
+[Promote my work](PRESS.md)
 
 </div>
 
@@ -54,6 +55,10 @@ Both are early prototypes in Python with no runtime dependencies, with releases 
 ### [no-api-media-mcp](https://github.com/farhan6667/no-api-media-mcp)
 
 An MCP server that lets Claude Code, Cursor and Codex make images and videos through the ChatGPT, Google AI Pro and Higgsfield accounts you already pay for, with no API keys. You sign in once yourself and it never sees your password. It reads your project first so the pictures match the site, saves them inside the project, and can cut out backgrounds, edit video and export every social size locally. It is Apache-2.0 licensed, and the README says plainly where the providers' terms limit automated use.
+
+## Promote my work
+
+You are welcome to review, demo, teach or write about me and my projects, on YouTube, a blog, a newsletter, a podcast or social media. You do not need to ask first, and monetised content is fine. [PRESS.md](PRESS.md) lists exactly what you can do, including using my photo and logos, plus a few simple things I ask in return.
 
 ## Sponsor my work
 
