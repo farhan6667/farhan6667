@@ -76,9 +76,14 @@ You are welcome to review, demo, teach or write about me and my projects, on You
 
 ## Sponsor my work
 
-These tools are free, and keeping them tested on real systems takes machines, hosting and time. If you run a hosting or cloud company, make security tools, or just find the projects useful, there are simple ways to help: hosting and CI credits, tools and licences, or direct funding. GitHub Sponsors is not available in Pakistan, so the [sponsor page](SPONSOR.md) explains how to do it by email instead.
+These tools are free, and keeping them tested on real systems takes machines, hosting and time. If you run a hosting or cloud company, make security tools, or just find the projects useful, there are simple ways to help: hosting and CI credits, tools and licences, or direct funding. GitHub Sponsors is not available in Pakistan, so funding is collected through Open Collective at [NexaForge OSS](https://opencollective.com/nexaforge-oss), with a card and any amount. The [sponsor page](SPONSOR.md) has the other ways to help.
 
-<a href="SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.webp" height="64" alt="Sponsor my open source work"></a>
+<p align="center">
+  <a href="https://opencollective.com/nexaforge-oss"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-dark.webp">
+    <img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-light.webp" width="480" alt="Support NexaForge: an animated gold Support button that opens the sponsor page">
+  </picture></a>
+</p>
 
 ## Contributing and feedback
 

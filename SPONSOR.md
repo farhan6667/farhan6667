@@ -26,9 +26,18 @@ I do not have fixed price tiers. Tell me what you can offer and we will work out
 
 **5. Your time.** A real world test result, a good bug report, a fix, or a clearer sentence in the docs is often worth more than money. Start with a [good first issue](https://github.com/nexaforge-oss/wazuh-ruleguard/labels/good%20first%20issue).
 
-## How paying works today
+## How paying works
 
-Email nexaforge.services@gmail.com with what you would like to offer and which project it is for. I will reply with the payment options that fit where you are. Some options need you to create a free account with the payment provider, so I will say that up front.
+**The open source tools:** sponsor through Open Collective with a card, any amount, one time or monthly.
+
+<p align="center">
+  <a href="https://opencollective.com/nexaforge-oss"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-dark.webp">
+    <img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-light.webp" width="480" alt="Support NexaForge: an animated gold Support button that opens the sponsor page">
+  </picture></a>
+</p>
+
+**Anything else,** such as SFA Monitor or a commercial licence: email nexaforge.services@gmail.com with what you would like to offer and which project it is for. I will reply with the payment options that fit where you are. Some options need you to create a free account with the payment provider, so I will say that up front.
 
 ## What sponsors get
 
