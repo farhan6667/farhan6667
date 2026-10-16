@@ -19,6 +19,20 @@
 
 </div>
 
+## Also at NexaForge OSS
+
+Each of my open source security and AI tools has a copy at **[github.com/nexaforge-oss](https://github.com/nexaforge-oss)**, which is where sponsorship for them will be collected. I keep working on the tools here under my own name, and the copies are kept in step with them.
+
+| Tool | What it does |
+|---|---|
+| [wazuh-ruleguard](https://github.com/nexaforge-oss/wazuh-ruleguard) | Regression tests for Wazuh detection rules |
+| [wazuh-noiselens](https://github.com/nexaforge-oss/wazuh-noiselens) | Preview what a Wazuh suppression would hide |
+| [hexswarm](https://github.com/nexaforge-oss/hexswarm) | Scope gated AI agent swarm for authorized pentesting |
+| [no-api-media-mcp](https://github.com/nexaforge-oss/no-api-media-mcp) | Image and video generation with subscriptions you already have |
+| [urdu-tts-pronunciation](https://github.com/nexaforge-oss/urdu-tts-pronunciation) | Correct Urdu pronunciation for AI voices |
+
+[sfa-monitor](https://github.com/farhan6667/sfa-monitor), a free desktop widget for Linux (free to use, not open source), stays under my own name only.
+
 ## About
 
 **Build. Break. Defend. Govern.** That is how I think about cyber security.

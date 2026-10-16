@@ -2,7 +2,7 @@
 
 I build free tools for security and system administration, and I work as a cyber security professional. Most of what I publish starts as something I needed and could not find. If these tools save you or your team time, there are a few ways to help keep them alive and growing.
 
-See the current list on [my repositories page](https://github.com/farhan6667?tab=repositories&type=source), or the ones pinned on [my profile](https://github.com/farhan6667). All are free to use.
+The open source tools are on my own profile, and each one also has a copy at [github.com/nexaforge-oss](https://github.com/nexaforge-oss), which is where sponsorship will be collected. All are free to use.
 
 ## What sponsorship helps with
 
@@ -20,15 +20,15 @@ I do not have fixed price tiers. Tell me what you can offer and we will work out
 
 **2. Tools and licences.** Security tools, SIEM or EDR trial licences, lab hardware, or accounts that let me test the projects against more environments.
 
-**3. Funding.** One time or recurring. GitHub Sponsors is not available in Pakistan, where I live, so I handle funding directly by email instead of through a button that would not work. Send me a short note and I will reply with the options.
+**3. Funding.** One time or recurring. GitHub Sponsors is not available in Pakistan, where I live. I am setting up Open Collective, which takes a card for any amount and also powers GitHub Sponsors through a fiscal host. It is not live yet, and this page will get the button the day it is. Until then, email me and I will reply with the options that work for you.
 
 **4. Paid work through NexaForge.** Security reviews, penetration testing, detection engineering and custom tooling. It is real work for a real fee, and it also keeps the open source side running. See [NexaForge](https://nexaforge.eu.cc/).
 
-**5. Your time.** A real-world test result, a good bug report, a fix, or a clearer sentence in the docs is often worth more than money. Start with a [good first issue](https://github.com/farhan6667/wazuh-ruleguard/labels/good%20first%20issue).
+**5. Your time.** A real world test result, a good bug report, a fix, or a clearer sentence in the docs is often worth more than money. Start with a [good first issue](https://github.com/nexaforge-oss/wazuh-ruleguard/labels/good%20first%20issue).
 
-## How paying works
+## How paying works today
 
-The usual sponsor buttons (GitHub Sponsors, Buy Me a Coffee, Ko-fi) don't pay out to Pakistan yet, so a proper one-click option is on the way. Until then, email nexaforge.services@gmail.com and you'll have a payment link or bank details back within minutes, card or bank transfer, no account needed. Mention what you'd like to offer and which project it's for, and I'll confirm and add your name to the list below if you want it there.
+Email nexaforge.services@gmail.com with what you would like to offer and which project it is for. I will reply with the payment options that fit where you are. Some options need you to create a free account with the payment provider, so I will say that up front.
 
 ## What sponsors get
 
