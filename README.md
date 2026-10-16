@@ -6,7 +6,7 @@
 
 <a href="mailto:nexaforge.services@gmail.com?subject=Opportunity"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/open-to-roles.svg" height="40" alt="Open to cyber security leadership roles"></a>
 &nbsp;
-<a href="https://github.com/farhan6667/farhan6667/blob/main/SPONSOR.md"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button.webp" height="48" alt="Sponsor my open source work"></a>
+<a href="https://opencollective.com/nexaforge-oss"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-dark.webp"><img src="https://raw.githubusercontent.com/farhan6667/farhan6667/main/assets/sponsor-button-light.webp" height="56" alt="Support NexaForge: an animated gold Support button that opens the sponsor page"></picture></a>
 
 <br><br>
 
